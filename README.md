@@ -68,6 +68,8 @@ Support agents can:
 
 * Auth	: SHA-256 hashed passwords
 
+### 🟢 Completed – Ready for review
+
 
 
 
