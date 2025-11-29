@@ -6,7 +6,7 @@ import hashlib
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="241513",
+    password="*****",
     database="client_query_db"
 )
 cursor = conn.cursor()
@@ -82,3 +82,4 @@ elif choice == "Login":
 
         else:
             st.error("Invalid Login Credentials!")
+
