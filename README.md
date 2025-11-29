@@ -1,4 +1,4 @@
-### 📌 Client Query Management System
+# 📌 Client Query Management System
 A real-time Query Submission & Support Management Dashboard
 Built with Python, MySQL, and Streamlit
 
@@ -18,7 +18,7 @@ This project uses:
 * Pandas + datetime for data handling and metrics
 
 ## 🚀 Features
-# 🔐 1. Login & Registration System
+### 🔐 1. Login & Registration System
 
 * Users can register as Client or Support Team
 
@@ -28,6 +28,6 @@ This project uses:
 
 Role-based navigation:
 
-     * Client → Query Submission Page
+* Client → Query Submission Page
 
-     * Support → Support Dashboard
+* Support → Support Dashboard
