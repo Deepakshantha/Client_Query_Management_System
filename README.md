@@ -7,12 +7,12 @@ The Client Query Management System provides a seamless interface for clients to 
 
 This project uses:
 
-CSV dataset to simulate initial query logs
+* CSV dataset to simulate initial query logs
 
-MySQL for backend database storage
+* MySQL for backend database storage
 
-Streamlit as the interactive web UI
+* Streamlit as the interactive web UI
 
-Hashed passwords for secure authentication
+* Hashed passwords for secure authentication
 
-Pandas + datetime for data handling and metrics
+* Pandas + datetime for data handling and metrics
