@@ -31,3 +31,43 @@ Role-based navigation:
 * Client → Query Submission Page
 
 * Support → Support Dashboard
+
+### 📝 2. Query Submission (Client Side)
+
+Clients can submit queries with:
+
+* Email ID
+
+* Mobile Number
+
+* Query Heading
+
+* Query Description
+
+### 🛠️ 3. Support Team Dashboard
+
+Support agents can:
+
+* View all open/closed queries
+
+* Search queries by keywords
+
+* Filter by status
+
+* Close queries
+
+### Tech Stack
+
+* Frontend : Streamlit
+  
+* Backend	: Python
+  
+* Database	: MySQL (mysql-connector-python)
+  
+* Libraries	: Pandas, datetime, hashlib
+
+* Auth	: SHA-256 hashed passwords
+
+
+
+
