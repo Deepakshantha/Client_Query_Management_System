@@ -16,3 +16,18 @@ This project uses:
 * Hashed passwords for secure authentication
 
 * Pandas + datetime for data handling and metrics
+
+## 🚀 Features
+# 🔐 1. Login & Registration System
+
+* Users can register as Client or Support Team
+
+* Passwords are hashed using SHA-256
+
+* Secure login validation
+
+Role-based navigation:
+
+     * Client → Query Submission Page
+
+     * Support → Support Dashboard
