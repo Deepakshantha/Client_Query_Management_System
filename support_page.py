@@ -77,10 +77,4 @@ else:
                     st.rerun()
 
 
-# --------------------- plot ----------------------
 
-query = "SELECT query_id, status FROM queries"
-df = pd.read_sql(query, conn)
-
-fig = px.line(df, x="status", y="query_id", title="Query Trend")
-st.plotly_chart(fig)
